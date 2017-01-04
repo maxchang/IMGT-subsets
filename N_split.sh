@@ -1,0 +1,6 @@
+split_table.py -n data/PerC_B1a/*txt results/N/PerC_B1a/withN results/N/PerC_B1a/noN 'nopattern'
+split_table.py -n data/PerC_B1b/*txt results/N/PerC_B1b/withN results/N/PerC_B1b/noN 'nopattern'
+split_table.py -n data/PerC_B2/*txt results/N/PerC_B2/withN results/N/PerC_B2/noN 'nopattern'
+split_table.py -n data/Spl_FO/*txt results/N/Spl_FO/withN results/N/Spl_FO/noN 'nopattern'
+split_table.py -n data/spl_B1a/*txt results/N/spl_B1a/withN results/N/spl_B1a/noN 'nopattern'
+split_table.py -n data/spl_MZ/*txt results/N/spl_MZ/withN results/N/spl_MZ/noN 'nopattern'
